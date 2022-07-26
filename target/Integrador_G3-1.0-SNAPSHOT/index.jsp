@@ -17,7 +17,8 @@
         <link href="https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@500&display=swap" rel="stylesheet">
     </head>
     <body>
-        <!-- Header -->
+        <!-- hola mundo -->
+        <h1>HOLA MUNDO </h1>
         <section id="header">
             <div class="header container">
                 <div class="nav-bar">
