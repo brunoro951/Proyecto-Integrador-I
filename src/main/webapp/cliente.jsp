@@ -1,0 +1,1 @@
+<%response.sendRedirect("Cliente?accion=SEL");//Redireccionamiento al servlet Cliente%> 
