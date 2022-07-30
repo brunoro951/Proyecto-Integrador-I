@@ -1,0 +1,1 @@
+<%response.sendRedirect("Empleado?accion=SEL");//Redireccionamiento al servlet Empleado%> 

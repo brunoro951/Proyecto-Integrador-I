@@ -96,7 +96,7 @@
                 </div>
                 <div class="col">
                     <div class="card" style="width: 20rem;">
-                        <img src="img/Cau-cau.jpg" class="card-img-top" alt="...">
+                        <img src="img/integrante4.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">CHIPANA ARI BRAYAN RAUL</h5>
                         </div>
@@ -110,7 +110,7 @@
             <div class="row align-items-start">
                 <div class="col-4">
                     <div class="card" style="width: 20rem;">
-                        <img src="img/Cau-cau.jpg" class="card-img-top" alt="...">
+                        <img src="img/Integrante3.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">CLAURE GARCIA JOSE DAVID</h5>
                         </div>
@@ -118,7 +118,7 @@
                 </div>
                 <div class="col">
                     <div class="card" style="width: 20rem;">
-                        <img src="img/Cau-cau.jpg" class="card-img-top" alt="...">
+                        <img src="img/Integrante5.jpeg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">CHUAN GARCIA ANTHONY FRANCISCO</h5>
                         </div>
